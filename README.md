@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/l0HlLZiHatn0BLJde/source.gif" align="right" width="400" height="250">
+<img src="https://media.giphy.com/media/p4NLw3I4U0idi/giphy.gif?cid=ecf05e47z6h19xqr6oaf6z4vmiwfqyf1nr7fxafee8cqei3k&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 ### Hi there, I'm Burak. :blush:
 
